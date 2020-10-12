@@ -1,3 +1,3 @@
-회사 입사후 외부위탁교육을 받으며 공부한 spring 게시판입니다.
-학원출신 개발자로써 전공자분들과 같이 작업하며 많은 부분을 새롭게 익혔고
-기존에 몰랐던 기능들을 사용하게 되어 큰 도움이 되었습니다.
+회사 입사 후 외부위탁교육을 받으며 공부한 spring 게시판입니다.
+
+This is a spring board project that I studied after receiving external consignment training after joining the company.
