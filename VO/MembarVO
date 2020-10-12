@@ -1,0 +1,65 @@
+public class MemberVo {
+	private String memberId;
+	private String memberPw;
+	private String memberName;
+	private String memberPhone1;
+	private String memberPhone2;
+	private String memberPhone3;
+	private String memberPost;
+	private String memberAddr;
+	private String memberComp;
+	
+	public String getMemberId() {
+		return memberId;
+	}
+	public void setMemberId(String memberId) {
+		this.memberId = memberId;
+	}
+	public String getMemberPw() {
+		return memberPw;
+	}
+	public void setMemberPw(String memberPw) {
+		this.memberPw = memberPw;
+	}
+	public String getMemberName() {
+		return memberName;
+	}
+	public void setMemberName(String memberName) {
+		this.memberName = memberName;
+	}
+	public String getMemberPhone1() {
+		return memberPhone1;
+	}
+	public void setMemberPhone1(String memberPhone1) {
+		this.memberPhone1 = memberPhone1;
+	}
+	public String getMemberPhone2() {
+		return memberPhone2;
+	}
+	public void setMemberPhone2(String memberPhone2) {
+		this.memberPhone2 = memberPhone2;
+	}
+	public String getMemberPhone3() {
+		return memberPhone3;
+	}
+	public void setMemberPhone3(String memberPhone3) {
+		this.memberPhone3 = memberPhone3;
+	}
+	public String getMemberPost() {
+		return memberPost;
+	}
+	public void setMemberPost(String memberPost) {
+		this.memberPost = memberPost;
+	}
+	public String getMemberAddr() {
+		return memberAddr;
+	}
+	public void setMemberAddr(String memberAddr) {
+		this.memberAddr = memberAddr;
+	}
+	public String getMemberComp() {
+		return memberComp;
+	}
+	public void setMemberComp(String memberComp) {
+		this.memberComp = memberComp;
+	}
