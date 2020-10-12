@@ -1,0 +1,21 @@
+public class PageVo {
+	
+	private int pageNo = 0;
+	
+	private List<String> chkTypeList;	
+
+	public int getPageNo() {
+		return pageNo;
+	}
+
+	public void setPageNo(int pageNo) {
+		this.pageNo = pageNo;
+	}
+
+	public List<String> getChkTypeList() {
+		return chkTypeList;
+	}
+
+	public void setChkTypeList(List<String> typeList) {
+		this.chkTypeList = typeList;
+	}
